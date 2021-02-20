@@ -288,6 +288,10 @@ make test
 
 If you intend to develop games with CX, then run:
 
+**If you are running Ubuntu/Debian please install this dependency before running test-full*
+```
+sudo apt-get install -y libopenal-dev
+```
 ```
 make test-full
 ```
